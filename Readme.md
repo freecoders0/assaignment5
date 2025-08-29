@@ -11,4 +11,7 @@ answer : 1) 1st I will create element ex: div , p ,h
 3. What is **Event Bubbling** and how does it work?
 answer:    evert bubbling means it follow pattern form child to father
 4. What is **Event Delegation** in JavaScript? Why is it useful?
+answer: Add one listener on a parent and handle child clicks there.
 5. What is the difference between **preventDefault() and stopPropagation()** methods?
+answer: preventdefauld stop being default action using submit button
+    stoppropagation stop being bubbling parent to child
