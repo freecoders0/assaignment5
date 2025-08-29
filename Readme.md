@@ -9,5 +9,6 @@ answer : 1) 1st I will create element ex: div , p ,h
          2) then i give innertext into element 
          3) I appennd child ( p, div) into parent div
 3. What is **Event Bubbling** and how does it work?
+answer:    evert bubbling means it follow pattern form child to father
 4. What is **Event Delegation** in JavaScript? Why is it useful?
 5. What is the difference between **preventDefault() and stopPropagation()** methods?
